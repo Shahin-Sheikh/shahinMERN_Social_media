@@ -44,7 +44,7 @@ const Navbar = () => {
           variant="h2"
           align="center"
         >
-          Memories
+          eBook
         </Typography>
       </div>
       <Toolbar className={classes.toolbar}>
